@@ -83,6 +83,9 @@ h1 {
 #positionfooter {
 	position: center;
 }
+a {
+	color: black;
+}
 .search-bar {
 	margin: 20px auto;
     max-width: 400px;
